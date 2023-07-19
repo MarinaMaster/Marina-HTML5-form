@@ -1,0 +1,74 @@
+.container {
+    display:block;
+    margin:auto;
+    padding:auto;
+}
+
+.header{
+width:100%;
+margin-top: 50px;
+}
+
+.navbar-brand{
+    margin-left:20px;
+    font-size: 20px;
+}
+
+.missing-text {
+    background-color: rgb(251, 208, 208);
+    font-size: 16px rgb(222, 52, 52);
+    font-weight:600;
+    margin:20px;
+    padding:15px;
+}
+.inline {
+    display: flex;
+}
+
+
+.space {
+    margin-top:auto;
+}
+
+.name {
+    width:100%;
+    height:35px;
+}
+
+.radio-buttuns {
+    margin-top: 20px;
+    background-color: gray;
+    width:60%;
+    padding:10px;
+    border-radius:15px;
+}
+
+.fa-cc-mastercard, .fa-cc-visa, .fa-cc-amex, .fa-cc-paypal {
+    font-size: 25px;
+    color: white;
+}
+
+.prompt {
+    font-size: 12px;
+    color:gray;
+}
+
+.navbar-brand {
+    float: right;
+}
+
+.footer-container {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.card-information, .personal-information {
+    border-left: 1px solid rgb(184, 178, 178);
+    border-right: 1px solid rgb(184, 178, 178);
+    padding-left:20px;
+    padding-right:20px;
+}
+
+
+
+
